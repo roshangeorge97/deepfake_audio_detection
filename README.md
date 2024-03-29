@@ -44,7 +44,7 @@ Includes Pandas, NumPy, Matplotlib for data manipulation, visualization, and ana
 # Output
 ### Output when the model identifies the input as Real voice:
 
-![Screenshot 2024-03-30 020225](https://github.com/Surendar14/DeepFake-Audio-Detection-Using-DeepLearning/assets/75235759/320d1e9c-36c6-42bb-8ed1-2fc0f0436a62)
+![Screenshot 2024-03-30 024800](https://github.com/Surendar14/DeepFake-Audio-Detection-Using-DeepLearning/assets/75235759/f046ceaf-8dbc-4976-9861-09e2ab5452b8)
 
 ### Output when the model identifies the input as Fake voice:
 
