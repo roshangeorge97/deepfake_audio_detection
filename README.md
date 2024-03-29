@@ -11,11 +11,16 @@ Real-time Integration: Integrate the trained model into existing audio verificat
 User Interface: Design a user-friendly interface with visualization tools for analyzing detection results and facilitating user interaction.
 
 ## Usage
-### Data Collection: Gather diverse datasets containing both authentic and manipulated audio samples.
-### Preprocessing: Preprocess the audio data to extract relevant features and standardize the format.
-### Model Training: Train the deep learning models on the annotated dataset using transfer learning or from scratch.
-### Evaluation: Evaluate the performance of the trained models using validation datasets and appropriate evaluation metrics.
-### Integration: Integrate the trained model into real-world applications or deploy standalone detection systems.
+### Data Collection:
+Gather diverse datasets containing both authentic and manipulated audio samples.
+### Preprocessing:
+Preprocess the audio data to extract relevant features and standardize the format.
+### Model Training: 
+Train the deep learning models on the annotated dataset using transfer learning or from scratch.
+### Evaluation:
+Evaluate the performance of the trained models using validation datasets and appropriate evaluation metrics.
+### Integration:
+Integrate the trained model into real-world applications or deploy standalone detection systems.
 
 # Code 
 ```
