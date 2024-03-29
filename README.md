@@ -53,4 +53,4 @@ model.compile(optimizer='adam',
 This project is licensed under the MIT License.
 
 # Contact
-For inquiries or feedback, please contact Your Name.
+For inquiries or feedback, please contact Surendar S (ssurendar8055@gmail.com)
