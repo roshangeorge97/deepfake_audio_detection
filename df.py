@@ -1,10 +1,10 @@
 import streamlit as st
 import librosa
 import numpy as np
-from keras.models import load_model
+import tensorflow as tf
 
 # Load the saved model
-model = load_model("static\model.h5")
+model = tf.keras.models.load_model("static\model.h5")
 
 # Define a function to preprocess the audio file
 def preprocess_audio(audio_file, max_length=500):
