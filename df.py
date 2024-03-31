@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 # Load the saved model
-model = tf.keras.models.load_model("static\model.h5")
+model = tf.keras.models.load_model("model.h5")
 
 # Define a function to preprocess the audio file
 def preprocess_audio(audio_file, max_length=500):
