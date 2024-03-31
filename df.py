@@ -4,7 +4,7 @@ import numpy as np
 from keras.models import load_model
 
 # Load the saved model
-model = load_model("model.h5")
+model = load_model("https://github.com/roshangeorge97/deepfake_audio_detection/blob/main/model.h5")
 
 # Define a function to preprocess the audio file
 def preprocess_audio(audio_file, max_length=500):
